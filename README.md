@@ -255,8 +255,11 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── 📊 seasonal_agriculture_performance_dataset (2).xlsx
 └── 📄 README.md
 ```
-🚀 Future Scope
-The project can be extended by introducing:
+
+---
+
+## 🚀 Future Scope
+
 - 🤖 Machine Learning based yield prediction
 - 📈 Crop demand and price forecasting
 - 🌧️ Weather-based agricultural prediction
@@ -265,27 +268,40 @@ The project can be extended by introducing:
 - 📊 Interactive Power BI dashboards
 - 🌱 Crop recommendation based on multiple conditions
 - 📱 Farmer-focused decision-support applications
-⚠️ Limitations
+
+---
+
+## ⚠️ Limitations
+
 - The dataset contains 4,000 observations.
 - State–district combinations contain inconsistencies in the provided dataset.
 - Identified outliers were retained for analysis.
 - Correlation does not imply causation.
 - Results are based on the provided dataset and may not represent all agricultural regions or farming conditions.
-📚 Project Files
-File	Description
-📓 Seasonal_Agriculture_Performance_Analysis.ipynb	Complete data analysis notebook
-📊 seasonal_agriculture_performance_dataset (2).xlsx	Agricultural dataset
-📄 README.md	Project documentation
 
+---
 
-👨‍💻 Project Information
-	
-Project	Seasonal Agriculture Performance Analysis
-Program	MCA
-Project Type	VOIS Data Analytics Major Project
-Student	Om Nandkishor Yadav
-Institution	Bharati Vidyapeeth Institute of Management & Information Technology
+## 📚 Project Files
 
+| File | Description |
+|---|---|
+| 📓 `Seasonal_Agriculture_Performance_Analysis.ipynb` | Complete data analysis notebook |
+| 📊 `seasonal_agriculture_performance_dataset (2).xlsx` | Agricultural dataset |
+| 📄 `README.md` | Project documentation |
+
+---
+
+## 👨‍💻 Project Information
+
+| Field | Details |
+|---|---|
+| **Project** | Seasonal Agriculture Performance Analysis |
+| **Program** | MCA |
+| **Project Type** | VOIS Data Analytics Major Project |
+| **Student** | Om Nandkishor Yadav |
+| **Institution** | Bharati Vidyapeeth Institute of Management & Information Technology |
+
+---
 
 <p align="center">
   🌾 <b>Turning Agricultural Data into Actionable Insights</b> 🌾
@@ -294,4 +310,3 @@ Institution	Bharati Vidyapeeth Institute of Management & Information Technology
 <p align="center">
   <i>Built with Python • Pandas • Statistics • Visualization • Data Analytics</i>
 </p>
-```
